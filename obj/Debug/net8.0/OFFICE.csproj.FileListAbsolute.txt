@@ -1,0 +1,14 @@
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\bin\Debug\net8.0\OFFICE.exe
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\bin\Debug\net8.0\OFFICE.deps.json
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\bin\Debug\net8.0\OFFICE.runtimeconfig.json
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\bin\Debug\net8.0\OFFICE.dll
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\bin\Debug\net8.0\OFFICE.pdb
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\obj\Debug\net8.0\OFFICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\obj\Debug\net8.0\OFFICE.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\obj\Debug\net8.0\OFFICE.AssemblyInfo.cs
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\obj\Debug\net8.0\OFFICE.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\obj\Debug\net8.0\OFFICE.dll
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\obj\Debug\net8.0\refint\OFFICE.dll
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\obj\Debug\net8.0\OFFICE.pdb
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\obj\Debug\net8.0\OFFICE.genruntimeconfig.cache
+C:\Users\Classtime.PC_6_213_18\Desktop\RUAD\C# PROJECT\OFFICE\obj\Debug\net8.0\ref\OFFICE.dll
