@@ -9,7 +9,7 @@ namespace OFFICE.Models
     class Saler:Employee
     {
         public double Salary { get; set; }
-
+ 
         public double Benefit { get; set; }
 
         public override void GetInfo()

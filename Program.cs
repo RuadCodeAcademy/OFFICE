@@ -222,6 +222,7 @@ namespace OFFICE
                     saler.Salary=saler.Salary*1.1;
                     saler.GetInfo();
                 }
+                user.GetInfo();
             }
 
             Console.WriteLine();
@@ -237,6 +238,7 @@ namespace OFFICE
                     workhours.WorkHours = workhours.WorkHours - 3;
                     workhours.GetInfo();
                 }
+                user.GetInfo();
             }
 
             Console.WriteLine();
@@ -251,6 +253,7 @@ namespace OFFICE
                     developer.ProjectCount = developer.ProjectCount + 2;
                     developer.GetInfo();
                 }
+                user.GetInfo();
             }
 
             Console.WriteLine();
@@ -263,8 +266,10 @@ namespace OFFICE
                 {
                     Manager manager = (Manager)user;
                     manager.Salary = manager.Salary * 1.3;
-                    manager.GetInfo();
+                    //manager.GetInfo();
                 }
+                user.GetInfo();
+                
             }
 
 
